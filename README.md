@@ -1,6 +1,6 @@
 ## Spring-Gradle
 
-****SPRING Initializr ************************************************************************************************************************************************
+****SPRING Initializr ****************************************************************************************************************************
  Spring Initializr es una herramienta web que permite generar rápidamente un proyecto de Spring Boot con la configuración inicial necesaria. Proporciona una interfaz
  intuitiva y fácil de usar que permite a los desarrolladores personalizar y configurar su proyecto de Spring Boot de acuerdo con sus necesidades específicas.
 
@@ -13,7 +13,7 @@ integrado (IDE) y comenzar a trabajar en su aplicación de Spring Boot sin tener
 En resumen, Spring Initializr es una herramienta web que simplifica la creación y configuración inicial de proyectos de Spring Boot, permitiendo a los desarrolladores
 comenzar rápidamente con su desarrollo sin tener que ocuparse de la configuración inicial.
 
-************************************************************************************************************************************************************ 
+*********************************************************************************************************************************************
 
 - Ejercicio Spring y Gradle
 Este ejercicio es un primer contacto con Spring y Gradle.
